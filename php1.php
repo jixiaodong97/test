@@ -1,3 +1,6 @@
 <?php
 
-phpinf();
+#include<iostream>
+int main(){
+  return 0；
+}
